@@ -8,6 +8,7 @@ public class User
 
     public long getUserId()
     {
+    		//add sth.
         return userId;
     }
 
