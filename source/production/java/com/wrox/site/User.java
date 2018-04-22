@@ -14,6 +14,7 @@ public class User
 
     public void setUserId(long userId)
     {
+    		//add sth. again
         this.userId = userId;
     }
 
